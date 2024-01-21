@@ -1,5 +1,5 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="a70cec2d-8543-4ede-a507-15fbfd1be86e" />
+    <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="be9ee20a-ea64-4eac-b420-29191a79191e" />
   </component>
 </application>
